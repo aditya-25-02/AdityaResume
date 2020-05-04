@@ -3,6 +3,9 @@
 	margin:0px;
 	padding:0px;
 }
+#navbarToggle{
+	border:1px solid blue;
+}
 #name{
 	font-size: 40px;
 }
